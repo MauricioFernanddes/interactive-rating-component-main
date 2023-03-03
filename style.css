@@ -231,3 +231,9 @@ div.star {
     width: 100px;
   }
 }
+@media all and (min-width: 500px) {
+  .card {
+    padding: 1.9em;
+    width: 400px;
+  }
+}
