@@ -237,3 +237,7 @@ div.star {
     width: 400px;
   }
 }
+.attribution {
+  display: flex;
+  align-items: end;
+}
